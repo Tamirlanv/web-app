@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    margin: 0 167px;
+}
+
+.header-class{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 31px;
+}
+
+.ssylki{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    padding-left: 28px;
+    position: relative;
+    top: -10px;
+}
+
+.phone-number{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    position: relative;
+    top: -10px;
+}
+
+.zapic{
+    position: relative;
+    top: -10px;
+    padding: 13px 44px;
+    background-color: #FFD600;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 17px;
+    border: none;
+    margin-left: 28px;
+}
